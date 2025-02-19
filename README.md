@@ -1,3 +1,7 @@
+# About
+This repository goes over some techniques for unsupervised classification between two categories. In this case differentiating between sea ice and lead. A lead refers to a large crack in sea ice, which creates an opening/exposes sea water underneath, these are vital for the creation of more sea ice, so their observations are crucial. 
+
+
 ## Introduction to Unsupervised Learning Methods
 # Introduction to K-means Clustering
 K-means clustering is a type of unsupervised learning algorithm used for partitioning a dataset into a set of k groups (or clusters), where k represents the number of groups pre-specified by the analyst. It classifies the data points based on the similarity of the features of the data {cite}macqueen1967some. The basic idea is to define k centroids, one for each cluster, and then assign each data point to the nearest centroid, while keeping the centroids as small as possible.
@@ -45,8 +49,7 @@ Cluster Shape Flexibility: Can adapt to ellipsoidal cluster shapes, thanks to th
 
 
 ## data sourced
-The data used in this project came from the Sentinel 2 and Sentinel 3 satellites, due to the size of the folders they were not included, however they can be found online at the readers discretion:
-The data used in this project came from the Sentinel 2 and Sentinel 3 satellites, due to the size of the folders they were not included, however they can be found online at the readers discretion 
+The data used in this project came from the Sentinel 2 and Sentinel 3 satellites, due to the size of the folders they were not included, however they can be found online at the readers discretion: 
 
 Sentinel 2:
 S2A_MSIL1C_20190301T235611_N0207_R116_T01WCU_20190302T014622.SAFE
@@ -55,4 +58,4 @@ Sentinel 3:
 S3A_SR_2_LAN_SI_20190307T005808_20190307T012503_20230527T225016_1614_042_131______LN3_R_NT_005.SEN3
 
 # Acknowledgements
-This was completed for the week 4 assignment of the "GEOL0069" module, "AI for earth observations" and is based off material provided by said module
+This was completed for the week 4 assignment of the "GEOL0069" module, "AI for earth observations" and is based off material provided by said module.
