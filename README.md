@@ -42,3 +42,17 @@ This process is repeated until convergence, meaning the parameters do not signif
 # Advantages of GMM
 Soft Clustering: Provides a probabilistic framework for soft clustering, giving more information about the uncertainties in the data assignments.
 Cluster Shape Flexibility: Can adapt to ellipsoidal cluster shapes, thanks to the flexible covariance structure
+
+
+## data sourced
+The data used in this project came from the Sentinel 2 and Sentinel 3 satellites, due to the size of the folders they were not included, however they can be found online at the readers discretion:
+The data used in this project came from the Sentinel 2 and Sentinel 3 satellites, due to the size of the folders they were not included, however they can be found online at the readers discretion 
+
+Sentinel 2:
+S2A_MSIL1C_20190301T235611_N0207_R116_T01WCU_20190302T014622.SAFE
+
+Sentinel 3:
+S3A_SR_2_LAN_SI_20190307T005808_20190307T012503_20230527T225016_1614_042_131______LN3_R_NT_005.SEN3
+
+# Acknowledgements
+This was completed for the week 4 assingment of the "GEOL0069" module, "AI for earth observations" and is based off material provided by said module
