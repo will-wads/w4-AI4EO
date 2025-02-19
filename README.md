@@ -55,4 +55,4 @@ Sentinel 3:
 S3A_SR_2_LAN_SI_20190307T005808_20190307T012503_20230527T225016_1614_042_131______LN3_R_NT_005.SEN3
 
 # Acknowledgements
-This was completed for the week 4 assingment of the "GEOL0069" module, "AI for earth observations" and is based off material provided by said module
+This was completed for the week 4 assignment of the "GEOL0069" module, "AI for earth observations" and is based off material provided by said module
